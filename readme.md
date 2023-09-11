@@ -5,7 +5,7 @@ A simple loan eligibility decision system developed with fastapi and scikit lear
 The Backend is deployed on google cloud run while the static frontend is served with firebase hosting.
 
 # How to serve the frontend locally
-- install firebase tools
+- install firebase tools 
 ~~~
 npm install -g firebase-tools
 ~~~

@@ -85,3 +85,4 @@ class LoanService(object):
         else:
             logger.info("Applicant Loan application rejected")
             return LoanPredictionResult(Eligible="No")
+        
